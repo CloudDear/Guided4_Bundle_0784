@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guided4_Bundle_0784</string>
+    <string name="register">Register</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="nama">Nama</string>
+    <string name="program_studi">Program Studi</string>
+    <string name="nim">NIM</string>
+    <string name="NIM">NIM</string>
+    <string name="Nama">Nama</string>
+    <string name="Fakultas">Fakultas</string>
+    <string name="Program_Studi">Program Studi</string>
+</resources>
